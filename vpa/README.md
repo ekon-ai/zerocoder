@@ -1,6 +1,7 @@
-# ZeroCoder
+# ZeroCoder Simple Python Project
 
-A collection of useful projects for zerocoders
+A first demo python project for zerocoders. 
+Simply checks google.com is reachable.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
