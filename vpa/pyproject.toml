@@ -1,0 +1,16 @@
+[project]
+name = "vpa02"
+version = "0.1.0"
+description = "Vibe Coder Home Work Project"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "requests>=2.34.2",
+]
+
+[project.scripts]
+vpa02 = "vpa02.main:main"
+
+[build-system]
+requires = ["uv_build>=0.12.23,<0.13.0"]
+build-backend = "uv_build"
